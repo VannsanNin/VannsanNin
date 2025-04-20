@@ -12,6 +12,7 @@
   <a href="https://www.youtube.com/@rean-share?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+   <a href = "mailto:vannsan.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/VannsanNin?tab=followers">
     <img src="https://img.shields.io/github/followers/VannsanNin?style=for-the-badge&logo=github&color=1155ba" alt="GitHub"/>
   </a>
